@@ -17,3 +17,5 @@ ps. 저자분에게 감사합니다.
 
 ## 솔데스크정리
 https://accounts.google.com/signin/v2/identifier?service=wise&passive=1209600&continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0ACu7HbDiIRZuUk9PVA&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F0ACu7HbDiIRZuUk9PVA&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+//공부내용정리해야지
